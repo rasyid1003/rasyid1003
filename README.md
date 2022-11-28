@@ -9,6 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rasyid1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rasyid1003&theme=dark&hide_border=false)<br/>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rasyid1003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
