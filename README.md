@@ -11,5 +11,3 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Rasyid1003&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=rasyid1003&theme=<THEME_NAME>" />
