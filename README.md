@@ -1,6 +1,7 @@
 ### Hi there I'M Faris Rasyid 👋
 
 ![Profile_FarisRasyid](https://cdn.discordapp.com/attachments/1041961141594759178/1043821797386244136/image.png)
+<img src="https://komarev.com/ghpvc/?username=rasyid1003&label=Profile%20views&color=0e75b6&style=flat" alt="farisrasyid" />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_farisrasyid_) 
 
