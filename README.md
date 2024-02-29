@@ -1,6 +1,6 @@
 ### Hi there I'M Faris Rasyid 👋
 
-![Profile_FarisRasyid](https://cdn.discordapp.com/attachments/1041961141594759178/1043821797386244136/image.png)
+![Profile_FarisRasyid]([https://cdn.discordapp.com/attachments/1041961141594759178/1043821797386244136/image.png](https://cdn.discordapp.com/attachments/1041961141594759178/1043821797386244136/image.png?ex=65ed7ecd&is=65db09cd&hm=d75195106b33422fda53d1f50a72149760ce20f56a20320a56613b8dfcb84eee&))
 <img src="https://komarev.com/ghpvc/?username=rasyid1003&label=Profile%20views&color=0e75b6&style=flat" alt="farisrasyid" />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_farisrasyid_) 
